@@ -1,0 +1,9 @@
+.block {
+    width: 90%;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: #ccc;
+    background-image: url(https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/052/014/image/base_d9dd9b626f.jpg);
+    background-size: cover;
+    background-position: center;
+}
